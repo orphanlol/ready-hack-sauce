@@ -6,7 +6,7 @@
 
 * This decompilation is mainly usable and somewhat messy.
 * Used JSNice for some of the weaker obfuscated ones that don't confuse JSNice
-* Used another deobfuscator that's really efficent but it doesn't get some of the names back (not naming here).
+* message from orphan here, i'm still trying to learn javascript, so take some of the decompiled code with a grain of salt compared to the original. removed a bunch of original code to make it work however
 * Nullify 6.9 contains lots of dead code, and a skipper that caused a headache. There's 2 dragElements, and the menu won't drag anyway, so it's just stuck there. It works kind of
 
 # What's included
