@@ -1,6 +1,9 @@
 # i-Ready Cheats Decompiled
  
-* A decompilation of some i-Ready cheats. All of these are patched because C.A. decided to heavily change how some stuff works.
+* A decompilation of some i-Ready cheats.
+* Cheats are patched, but are decompiled to better understand how they work.
+* Documentation might be provided. You can steal the GUI from here if you want.
+* Documentation for how to find hooks and make cheats will not be possible as of now.
 
 # Some Notes
 
@@ -33,9 +36,9 @@
 
 * [orphanlol](https://github.com/orphanlol) - Legit fixed basically most shit 
 
-* Nullify Team - Nullify cheat/hack
+* Nullify Team - Nullify cheat/hack (discontinued)
 
-* Voidmenu Team - Void Menu
+* JMenu/JVoid/InterVoid/VoidMenu/OnTop Team - VoidMenu/OnTop
 
-* Shadow/North Team - Shadow/North Menu
+* Shadow/North Team (ufore/Flora) - Shadow/North Menu
 
